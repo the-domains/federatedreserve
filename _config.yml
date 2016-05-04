@@ -1,0 +1,28 @@
+name: FederatedReserve
+favicon: null
+layout_spectrum: 0.7418837561272085
+typography_spectrum: 0.18258314300328493
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9666447939816862
+  lightness: 0.64672064431943
+  saturation: 0.5059572842437774
+  rhythmicContrast: 0.4731571429874748
+purpose: []
